@@ -1,6 +1,5 @@
 // Approach : binary search
-// tc : O(logn)  sc: O(1)
-
+// tc : O(log n)  sc : O(1)
 
 class Solution {
     public:
