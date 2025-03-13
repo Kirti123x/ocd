@@ -1,5 +1,3 @@
-
-
 // Q1) Duplicate elements in array
 // APPROACH: sort the array, then check if there are any repeating elements.
 // TC: O(n) SC:O(1)
